@@ -1,0 +1,144 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92197CFF-469F-4CF7-A843-5CCD3106AC6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 517,
+    "width": 1093,
+    "x": 173.5,
+    "y": 863
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B005E87B-8C35-44FB-90E8-11FB41B24086"
+    },
+    {
+      "class": "text",
+      "id": "C2E258D0-4BC8-49CD-AFF3-B56177A860DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "74C02030-7450-44E7-9D85-6CF397929FBE"
+    },
+    {
+      "class": "text",
+      "id": "314BBB20-8B56-4932-9487-A7B29BA041D2"
+    },
+    {
+      "class": "text",
+      "id": "7B7C3406-BF45-437F-AA07-5FE84F39E16C"
+    },
+    {
+      "class": "text",
+      "id": "385F7BEE-BD6E-42B6-A7AA-79D6F62443A5"
+    },
+    {
+      "class": "text",
+      "id": "597BAF02-C2B5-4F39-826A-E35EB35FEA5D"
+    },
+    {
+      "class": "text",
+      "id": "AC7E3BB3-3763-40C8-8FF3-9B05828EC591"
+    },
+    {
+      "class": "text",
+      "id": "7E4D44C1-DE4E-4E77-A0BE-7521B53BD9C1"
+    },
+    {
+      "class": "text",
+      "id": "7B2B7B5A-1ECD-40CD-BF5F-E44AFA8B991F"
+    },
+    {
+      "class": "text",
+      "id": "A77E7D54-62FB-47A2-AB1F-C27E1A18C999"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D4B954F-CF8A-4172-B347-9893149A9DE4"
+    },
+    {
+      "class": "group",
+      "id": "ECAB6018-457A-4D15-86F3-E5E3AE4C20F9"
+    },
+    {
+      "class": "text",
+      "id": "BC1A65A3-C7DB-436F-AEC9-130243E15B3B"
+    }
+  ],
+  "name": "Donation Summary Section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C87A6370-3360-41AF-9BB6-FFE000065AB5",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
