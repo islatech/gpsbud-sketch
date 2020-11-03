@@ -1,0 +1,471 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "BBC0B755-0E9B-4160-A6CC-4569F01BA6F5",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "BFE81436-39C2-41A6-8B23-49B4AA9EA4C4",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "1626D68A-C9EC-4FCD-ACBC-9A9A67986D36",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2538C27D-E04D-4687-A81F-9E646786531F",
+      "fontFamilyName": "Oxygen",
+      "fontFileName": "Oxygen-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Oxygen-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3880FB15-0B81-47FE-AEF2-BD1C1875CFFA",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3FC5D752-039C-4768-8168-C4FE0442DCCA",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5E3A0305-9039-4ECD-8477-9DB91FB5C452",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "637EC3D2-C27E-494C-B07A-C866C336C283",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "65755AA5-CD40-4F01-ABC9-03CCDB01B55C",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "682FA27E-DDEB-4F31-B711-D54BC6B370D8",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ExtraBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6CE82524-2941-4CEE-AAAD-0AFAD0ED3CA0",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "757D2FE1-5C64-43C6-9531-B316B48F640F",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7D73A560-F1A4-4D82-BDDC-CE8D54E0E917",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8046A14D-9D7F-40A1-99D6-A1900F642F7F",
+      "fontFamilyName": "Oxygen",
+      "fontFileName": "Oxygen-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Oxygen-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "80B322A6-B654-42F8-86DD-E2C8D3B3B1FD",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Poppins-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9298D950-0FCC-4ABA-B4AB-87863ECD1F72",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-It"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "96C725E5-7F64-49DC-8F52-D4A6F50C623B",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "996F9F6B-5D06-4D00-BCC1-F435D887185F",
+      "fontFamilyName": "Oxygen",
+      "fontFileName": "Oxygen-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Oxygen-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9F114DB9-99FC-42A4-B06A-5FC705855150",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Semibold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A0C9C755-ACD8-43FE-B6B7-29A21A92DC11",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A723B47B-696C-4231-B4EC-5E57AFD9BA51",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-SemiBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AC6162EE-9835-47B2-AE9D-55516646E319",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B1964AD5-503C-48F3-BBC3-53A1A2E8C381",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BFEE7D09-E587-45C6-A9D9-36BFDEEFA556",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-RegularItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C14CC767-5402-4203-9C45-141944C8E7A0",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C60DF26E-4E59-48DE-A09B-BD2F199029A4",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F0209AEE-263D-4DE0-BAC8-743642592DD5",
+      "fontFamilyName": "Poppins",
+      "fontFileName": "Poppins-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Poppins-ExtraLight"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "3DD397AA-A956-4533-8CD6-3885B60B3229",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "69.2",
+    "build": 107504,
+    "version": 134
+  },
+  "pages": [
+    "Home Page",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "18A79368-5F5A-4CD9-9A26-A7B34E959A84",
+    "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "09139E40-2F3A-4CAB-9F57-025CE1376347",
+        "name": "7. #000000",
+        "value": {
+          "_class": "color",
+          "alpha": 0.1676955856643357,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "677B5211-D073-47AD-BE35-4CBC58246F0B",
+        "name": "Logo color",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1372549019607843,
+          "green": 0.611764705882353,
+          "red": 0.2745098039215687
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8A3008D3-331A-4CAB-A4C2-432D327E3746",
+        "name": "FFE3A2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6359946646341463,
+          "green": 0.8882369982104403,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0C1C1161-C60B-42F2-94C3-8577D610C719",
+        "name": "0A2911",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.06666666666666667,
+          "green": 0.1607843137254902,
+          "red": 0.0392156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "AD458A8B-0395-4A23-91A7-ADB6F818D8AF",
+        "name": "1. #121212",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07057429105043411,
+          "green": 0.07059336453676224,
+          "red": 0.0705791488289833
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1BA57D06-6D8B-47B8-B443-108168B41351",
+        "name": "2. #9E9E9E",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6198199728260869,
+          "green": 0.6198199728260869,
+          "red": 0.6198199728260869
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "DFFE3E74-0844-4D09-AF57-FB0EF5C4F174",
+        "name": "darker green",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.04254564334800352,
+          "green": 0.1034307065217391,
+          "red": 0.02478749992233066
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7AEE27F7-31D0-4D92-9C70-7559B6133AD7",
+        "name": "66A186",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5254901960784314,
+          "green": 0.6313725490196078,
+          "red": 0.4
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E787C16C-1B10-42EE-9B0C-406454FF54FA",
+        "name": "ECFFF7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9697893982288037,
+          "green": 1,
+          "red": 0.9253620426829269
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "11D26F0E-1960-41AB-91E8-7D0B7C69CA3D",
+        "name": "5. #FFFCFA",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9792628884315491,
+          "green": 0.9878485798835754,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C3A6ABD4-FF3A-42FB-8F4A-CAD1015E437A",
+        "name": "FFFFFF",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "DE7866A8-9E2E-4E00-B9C8-9878365F1AEC",
+        "name": "Logo",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.05490196078431372,
+          "green": 0.7607843137254902,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "42C7C4BB-FA74-4005-86BB-3F763EE4C1B4",
+        "name": "Logo Color",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2274509803921569,
+          "green": 0.4156862745098039,
+          "red": 0.00392156862745098
+        }
+      }
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
